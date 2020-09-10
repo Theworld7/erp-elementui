@@ -46,7 +46,7 @@ export default {
   background: #e6e6e6;
 
   .el-card {
-    height: calc(100% - 2px);
+    height: calc(100vh - 102px);
   }
 }
 

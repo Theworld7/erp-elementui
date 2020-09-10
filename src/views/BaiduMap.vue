@@ -1,9 +1,13 @@
 <template>
-  <div>mytodo</div>
+  <div>百度地图</div>
 </template>
 
 <script>
 export default {
-  name: "MyTodo"
-};
+
+}
 </script>
+
+<style>
+
+</style>
